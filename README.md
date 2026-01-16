@@ -1,5 +1,5 @@
 # temperature-humidity-moniter
-<h6>🌟Key Features</h6>
+<h1>🌟Key Features</h1>
 <pre>
 1. Real-Time Monitoring: The system provides constant, accurate readings of the 
 surrounding environment. 
